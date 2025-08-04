@@ -1,6 +1,6 @@
 # 👋 Hello! I'm Heet Mehta
 
-🚀 I am a final-year **B.Tech student in Information Technology** at Vellore Institute of Technology, Vellore, passionate about **software development**, **data science**, and **machine learning**.
+🚀 I am passionate about **software development**, **data science**, and **machine learning**.
 
 🌱 Over the past years, I’ve gained hands-on experience in various programming languages and technologies through coursework and personal projects. I love tackling challenges and building solutions that leverage data and technology to solve real-world problems.
 
