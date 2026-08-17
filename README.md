@@ -1,4 +1,4 @@
-<h1 align="center">Hi, I'm Heet 👋</h1>
+<h1 align="center">Hi, I'm Heet</h1>
 <p align="center">I build systems: distributed backends, infra tooling, and the occasional analytics platform, then make sure they actually run in production.</p>
 
 <p align="center">
@@ -16,19 +16,25 @@ under the hood."
 
 ---
 
-## 🛠️ Skills & Stack
+## Skills & Stack
 
 **Languages**
 
 ![Go](https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
-![Bash](https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnubash&logoColor=white)
-![YAML](https://img.shields.io/badge/YAML-CB171E?style=for-the-badge&logo=yaml&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![Java](https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=openjdk&logoColor=white)
+![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
+![C](https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=white)
+![Bash](https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnubash&logoColor=white)
 ![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white)
+![YAML](https://img.shields.io/badge/YAML-CB171E?style=for-the-badge&logo=yaml&logoColor=white)
+![Solidity](https://img.shields.io/badge/Solidity-363636?style=for-the-badge&logo=solidity&logoColor=white)
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
+![MATLAB](https://img.shields.io/badge/MATLAB-0076A8?style=for-the-badge&logo=mathworks&logoColor=white)
 
-**Infrastructure & Platforms**
+**Infrastructure & platforms**
 
 ![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)
 ![Helm](https://img.shields.io/badge/Helm-0F1689?style=for-the-badge&logo=helm&logoColor=white)
@@ -36,6 +42,8 @@ under the hood."
 ![Google Cloud](https://img.shields.io/badge/GCP-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white)
 ![Terraform](https://img.shields.io/badge/Terraform-7B42BC?style=for-the-badge&logo=terraform&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
+![Heroku](https://img.shields.io/badge/Heroku-430098?style=for-the-badge&logo=heroku&logoColor=white)
 
 **Observability**
 
@@ -51,14 +59,24 @@ under the hood."
 ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
 ![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white)
 ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
+
+**Tools**
+
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitLab](https://img.shields.io/badge/GitLab-FCA121?style=for-the-badge&logo=gitlab&logoColor=white)
 
 ---
 
-## 🚀 Featured projects
+## Featured projects
 
 <table>
 <tr>
-<td width="50%" valign="top">
+<td width="15%" align="center" valign="middle">
+<img src="https://raw.githubusercontent.com/Heet852003/aegis/main/docs/assets/logo.svg" width="56" alt="Aegis logo" />
+</td>
+<td width="85%" valign="top">
 
 **[Aegis](https://github.com/Heet852003/aegis)**: distributed job queue and DAG workflow engine
 
@@ -72,12 +90,17 @@ dashboard, Go + Python worker SDKs, one binary.
 ![Postgres](https://img.shields.io/badge/-PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
 
 </td>
-<td width="50%" valign="top">
+</tr>
+<tr>
+<td width="15%" align="center" valign="middle">
+<img src="https://raw.githubusercontent.com/Heet852003/InsightBoard/master/frontend/dashboard/public/logo.svg" width="56" alt="InsightBoard logo" />
+</td>
+<td width="85%" valign="top">
 
 **[InsightBoard](https://github.com/Heet852003/InsightBoard)**: self-hosted product analytics
 
 A Mixpanel-style stack: a tracking SDK, a FastAPI ingestion API, a Kafka
-→ ClickHouse pipeline for event aggregation, and a React dashboard for
+to ClickHouse pipeline for event aggregation, and a React dashboard for
 funnels, heatmaps, and custom boards.
 
 ![FastAPI](https://img.shields.io/badge/-FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
@@ -87,7 +110,10 @@ funnels, heatmaps, and custom boards.
 </td>
 </tr>
 <tr>
-<td width="50%" valign="top">
+<td width="15%" align="center" valign="middle">
+<img src="https://raw.githubusercontent.com/Heet852003/SentryFlow/main/docs/logo.svg" width="56" alt="SentryFlow logo" />
+</td>
+<td width="85%" valign="top">
 
 **[SentryFlow](https://github.com/Heet852003/SentryFlow)**: API gateway with rate limiting and analytics
 
@@ -99,7 +125,29 @@ into ClickHouse for usage analytics.
 ![Redis](https://img.shields.io/badge/-Redis-DC382D?style=flat-square&logo=redis&logoColor=white)
 
 </td>
-<td width="50%" valign="top">
+</tr>
+<tr>
+<td width="15%" align="center" valign="middle">
+<img src="https://raw.githubusercontent.com/Heet852003/ethvault/main/public/ethvault-logo.svg" width="56" alt="ETHVault logo" />
+</td>
+<td width="85%" valign="top">
+
+**[ETHVault](https://github.com/Heet852003/ethvault)**: Ethereum staking and governance platform
+
+Deposit ETH for a receipt token, stake it for a second token, earn
+rewards, and vote on governance proposals, four Solidity contracts
+behind a Next.js frontend.
+
+![Next.js](https://img.shields.io/badge/-Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white)
+![Solidity](https://img.shields.io/badge/-Solidity-363636?style=flat-square&logo=solidity&logoColor=white)
+
+</td>
+</tr>
+<tr>
+<td width="15%" align="center" valign="middle">
+<img src="https://raw.githubusercontent.com/Heet852003/symbolic-music-scaling-laws/main/docs/logo.svg" width="56" alt="Symbolic Music Scaling Laws logo" />
+</td>
+<td width="85%" valign="top">
 
 **[Symbolic Music Scaling Laws](https://github.com/Heet852003/symbolic-music-scaling-laws)**: do neural scaling laws hold for music?
 
@@ -114,13 +162,11 @@ question scaling-laws research asks for text, asked of music instead.
 </tr>
 </table>
 
-More on my [GitHub profile](https://github.com/Heet852003?tab=repositories): a Solidity/React auction house and staking platform, an HTLC atomic-swap protocol simulator with a short paper, and a diabetic retinopathy screening app among them.
+More on my [GitHub profile](https://github.com/Heet852003?tab=repositories):
+an HTLC atomic-swap protocol simulator with a short paper, an Ethereum
+auction house, and a diabetic retinopathy screening app among them.
 
 ---
 
-## 📊 GitHub stats
-
-<p align="center">
-  <img height="165" alt="Heet's GitHub stats" src="https://github-readme-stats.vercel.app/api?username=Heet852003&show_icons=true&hide_border=true&bg_color=0b0d12&title_color=a78bfa&icon_color=a78bfa&text_color=e5e7eb" />
-  <img height="165" alt="Top languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Heet852003&layout=compact&hide_border=true&bg_color=0b0d12&title_color=a78bfa&text_color=e5e7eb" />
-</p>
+Full contribution history and activity graph are on this profile page,
+right below this README.
