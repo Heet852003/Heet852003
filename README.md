@@ -145,26 +145,30 @@ behind a Next.js frontend.
 </tr>
 <tr>
 <td width="15%" align="center" valign="middle">
-<img src="https://raw.githubusercontent.com/Heet852003/symbolic-music-scaling-laws/main/docs/logo.svg" width="56" alt="Symbolic Music Scaling Laws logo" />
+<img src="https://raw.githubusercontent.com/Heet852003/sift/main/docs/assets/logo.svg" width="56" alt="Sift logo" />
 </td>
 <td width="85%" valign="top">
 
-**[Symbolic Music Scaling Laws](https://github.com/Heet852003/symbolic-music-scaling-laws)**: do neural scaling laws hold for music?
+**[Sift](https://github.com/Heet852003/sift)**: self-hosted, multi-repository code search engine
 
-Trains Transformer and RNN language models at five sizes on ABC-notation
-music and fits a power law to loss vs. parameter count, the same
-question scaling-laws research asks for text, asked of music instead.
+A trigram index (the technique behind Google Code Search and Zoekt)
+derived from arbitrary regex patterns via Go's own AST parser, plus
+per-language symbol extraction so definitions rank above incidental
+text matches. Fuzz-tested against the invariant that it never misses
+a true match.
 
-![PyTorch](https://img.shields.io/badge/-PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white)
-![Weights & Biases](https://img.shields.io/badge/-W%26B-FFBE00?style=flat-square&logo=weightsandbiases&logoColor=black)
+![Go](https://img.shields.io/badge/-Go-00ADD8?style=flat-square&logo=go&logoColor=white)
+![React](https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react&logoColor=black)
+![SQLite](https://img.shields.io/badge/-SQLite-003B57?style=flat-square&logo=sqlite&logoColor=white)
 
 </td>
 </tr>
 </table>
 
 More on my [GitHub profile](https://github.com/Heet852003?tab=repositories):
-an HTLC atomic-swap protocol simulator with a short paper, an Ethereum
-auction house, and a diabetic retinopathy screening app among them.
+a symbolic-music scaling-laws experiment, an HTLC atomic-swap protocol
+simulator with a short paper, an Ethereum auction house, and a diabetic
+retinopathy screening app among them.
 
 ---
 
